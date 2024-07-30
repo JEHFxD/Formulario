@@ -2,7 +2,7 @@ const formEmail = document.getElementById("frm-email")
 formEmail.addEventListener("submit", sendEmail)
 
 const serviceId = "service_dq66346"
-const templateId ="template_1mz25dn"
+const templateId ="template_k288s2e"
 const apiKey = "tWYqMt6aWEVp4Qom1"
 
 function sendEmail(event){
